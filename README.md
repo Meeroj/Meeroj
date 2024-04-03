@@ -2,6 +2,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+Hello there! My name is Meeroj. I am a Frontend Developer and I am very passionate and dedicated to my work. With several years of experience as your expert, I have the skills and knowledge you need to make your project a success. I enjoy every step of the design process, the discussion and collaboration.
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
